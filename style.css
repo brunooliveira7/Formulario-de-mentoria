@@ -1,0 +1,160 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #efefef;
+}
+
+body,
+input,
+textarea {
+  font-family: "Poppins", sans-serif;
+}
+
+body::before {
+  content: "";
+  width: 1440px;
+  height: 436px;
+  background: #535971;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.page {
+  width: 750px;
+  margin: auto;
+}
+
+header {
+  width: 417px;
+  margin-top: 140px;
+}
+
+header h1 {
+  font-family: "Staatliches", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: normal;
+  color: #fff;
+  margin-bottom: 18px;
+}
+
+header p {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+form {
+  margin-top: 50px;
+  background: #fff;
+  min-height: 300px;
+  border-radius: 20px 20px 0px 0px;
+  padding: 64px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+fieldset {
+  border: none;
+}
+
+.fieldset-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+fieldset legend {
+  font-family: "Staatliches", sans-serif;
+  color: #535971;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  border-bottom: 1px solid #e6e6f0;
+  width: 100%;
+  padding-bottom: 8px;
+}
+
+.input-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-wrapper label {
+  color: #4e4958;
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 8px;
+}
+
+.input-wrapper label span {
+  margin-left: 6px;
+  color: #c1bccc;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.input-wrapper input {
+  border: 1px solid #e6e6f0;
+  border-radius: 8px;
+  background: #fafafc;
+  box-sizing: border-box;
+  height: 56px;
+  padding: 0 24px;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.input-col-2 {
+  display: flex;
+  gap: 22px;
+}
+
+.input-col-2 div {
+  width: 300px;
+  margin-top: 28px;
+}
+
+.input-info div {
+  margin-top: 16px;
+}
+
+.fieldset-wrapper p {
+  color: #535971;
+  font-family: "Staatliches", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 34px;
+  margin-top: 16px;
+}
+
+.col-3-first,
+.col-3-second {
+  display: flex;
+}
+
+.col-3-first > div:nth-child(1) {
+  width: 100%;
+  margin-right: 32px;
+}
+
+.col-3-first > div:nth-child(2) {
+  margin-right: 10px;
+}
+
+.col-3-second > div:nth-child(1) {
+  width: 100%;
+  margin-right: 32px;
+}
+
+.col-3-second > div:nth-child(2) {
+  margin-right: 10px;
+}
