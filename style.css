@@ -6,6 +6,7 @@
 
 body {
   background: #efefef;
+  overflow-x: hidden;
 }
 
 body,
@@ -157,4 +158,28 @@ fieldset legend {
 
 .col-3-second > div:nth-child(2) {
   margin-right: 10px;
+}
+
+footer {
+  border-radius: 0px 0px 20px 20px;
+  background: #535971;
+  width: 750px;
+  height: 160px;
+  display: flex;
+  flex-direction: column;
+  padding: 52px 71px;
+  margin-bottom: 300px;
+}
+
+footer .button {
+  border-radius: 20px;
+  background: #ff5374;
+  width: 608px;
+  height: 55px;
+  border: none;
+  font-family: "Staatliches", sans-serif;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
 }
