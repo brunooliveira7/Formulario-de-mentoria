@@ -12,7 +12,7 @@ O Formulário de avaliação de mentoria é um formulário para coletar feedback
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/Course-website-responsive/blob/main/assets/Layout%20Course-website-responsive.png">
+  <img alt="License" src="https://github.com/brunooliveira7/Formulario-de-mentoria/blob/main/Layout%20formul%C3%A1rio%20de%20mentoria.png">
 </p>
 
 <br>
