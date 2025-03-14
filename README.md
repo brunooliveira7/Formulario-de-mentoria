@@ -26,18 +26,11 @@ Number-draw é um sorteador de números projetado para fornecer uma interface in
 Projeto desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
 Pode ser usado como sorteador em jogos ou sorteios personalizados, destacando-se como uma ferramenta prática e confiável.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/5qPGRQ9XVEgd46J4lTAVjQ/Sorteador-de-n%C3%BAmeros-(Community)?node-id=3-376&node-type=canvas&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
 
 ## :memo: Licença
 
