@@ -14,11 +14,6 @@ Number-draw é um sorteador de números projetado para fornecer uma interface in
   <img alt="License" src="">
 </p>
 
-<p align="center">
-  <img alt="License" src="">
-</p>
-
-
 <br>
 
 ## 🧑🏻‍💻 Tecnologias
