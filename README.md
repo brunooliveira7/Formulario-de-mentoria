@@ -1,7 +1,7 @@
 <h1 align="center"> Formulário de mentoria </h1>
 
 <p align="center">
-Number-draw é um sorteador de números projetado para fornecer uma interface intuitiva e eficiente para gerar números aleatórios com facilidade. Site disponível em: https://brunooliveira7.github.io/Number-draw
+Number-draw é um sorteador de números projetado para fornecer uma interface intuitiva e eficiente para gerar números aleatórios com facilidade. Site disponível em: https://brunooliveira7.github.io/Formulario-de-mentoria
 </p>
 
 <p align="center">
