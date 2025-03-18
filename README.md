@@ -1,7 +1,7 @@
 <h1 align="center"> Formulário de mentoria </h1>
 
 <p align="center">
-Number-draw é um sorteador de números projetado para fornecer uma interface intuitiva e eficiente para gerar números aleatórios com facilidade. Site disponível em: https://brunooliveira7.github.io/Formulario-de-mentoria
+O Formulário de Mentoria é um documento estruturado para coletar informações essenciais sobre o mentorado e o mentor, facilitando o agendamento e organização das sessões. Campos: Informações Pessoais: Nome, e-mail, e senha do mentorado. Informações do Mentor: Nome. Horários Disponíveis: Opções de dias e horários para as sessões de mentoria, permitindo um melhor alinhamento entre mentor e mentorado. Site disponível em: https://brunooliveira7.github.io/Formulario-de-mentoria
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Pode ser usado como sorteador em jogos ou sorteios personalizados, destacando-se como uma ferramenta prática e confiável.
+Esse formulário ajuda a otimizar o processo de mentoria, garantindo que ambas as partes tenham clareza sobre os encontros.
 
 ## :memo: Licença
 
