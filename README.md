@@ -11,7 +11,7 @@ O Formulário de Mentoria é um documento estruturado para coletar informações
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/Formulario-de-mentoria/blob/main/assets/Layout%20-%20formulário.png">
+  <img alt="License" src="">
 </p>
 
 <br>
